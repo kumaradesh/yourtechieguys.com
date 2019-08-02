@@ -19,14 +19,14 @@ jdk   'Java-1.8'
 }
 stages
 {
-stage ('Build')
-{
-steps
-{
-sh 'mvn clean install'
-}
-}
-stage('Image Build & Push')
+//stage ('Build')
+//{
+//steps
+//{
+//sh 'mvn clean install'
+//}
+//}
+stage('Build & Push Docker Image')
 {
 steps
 {
@@ -49,9 +49,7 @@ script
 {
 sh "kubectl set image deployment.v1.apps/website website=594952790969.dkr.ecr.us-east-2.amazonaws.com/test:${env.BUILD_NUMBER}"
 }
-
 }
-
 }
 }
 }

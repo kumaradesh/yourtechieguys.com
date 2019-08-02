@@ -1,1 +1,2 @@
-FROM nginx
+FROM httpd
+COPY . /var/www/html
