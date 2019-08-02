@@ -32,7 +32,7 @@ steps
 {
 script 
 {
-def customImage = docker.build("594952790969.dkr.ecr.us-east-2.amazonaws.com/test::${env.BUILD_NUMBER}")
+def customImage = docker.build("594952790969.dkr.ecr.us-east-2.amazonaws.com/test:${env.BUILD_NUMBER}")
 customImage.push("${env.BUILD_NUMBER}")
 customImage.push("latest")
 }
