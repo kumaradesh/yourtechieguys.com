@@ -41,5 +41,17 @@ customImage.push("latest")
 }
 }
 }
+stage('Deploy')
+{
+steps
+{
+script
+{
+sh "kubectl set image deployment.v1.apps/website website=594952790969.dkr.ecr.us-east-2.amazonaws.com/test:${env.BUILD_NUMBER}"
+}
+
+}
+
+}
 }
 }
