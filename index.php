@@ -1,6 +1,12 @@
-<?php
-include ("inc/header.php");
-echo "<title>Your Techie Guys</title>";
-echo "<h2>Website is under construction !!!</h2>";
-include_once("inc/footer.php")
-?>
+<?php include ("inc/header.php"); ?>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="shortcut icon" href="https://www.yourtechieguys.com/content/themes/successive/images/favicon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>YourTechieGuys</title>
+
+
+<?php include_once("inc/footer.php"); ?>
