@@ -1,4 +1,4 @@
-FROM 594952790969.dkr.ecr.us-east-2.amazonaws.com/php:1
+FROM centos/php-56-centos7
 #USER root
 #RUN yum remove -y httpd24-*
 #RUN yum install -y php
