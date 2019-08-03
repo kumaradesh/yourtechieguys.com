@@ -1,5 +1,4 @@
 <?php
-
-echo "<h1>"."We Techie Guys Welcome You !!!"."<h1>";
-
+echo "<title>Your Techie Guys</title>";
+echo "<h2>Website is under construction !!!</h2>";
 ?>
