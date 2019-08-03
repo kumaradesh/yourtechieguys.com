@@ -1,29 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
-
-    <!-- Required meta tags -->
+    <title>yourTechieguys</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-
-    <!-- FontAwesome CSS -->
     <link rel="stylesheet" href="css/font-awesome.min.css">
-
-    <!-- ElegantFonts CSS -->
     <link rel="stylesheet" href="css/elegant-fonts.css">
-
-    <!-- themify-icons CSS -->
     <link rel="stylesheet" href="css/themify-icons.css">
-
-    <!-- Swiper CSS -->
     <link rel="stylesheet" href="css/swiper.min.css">
-
-    <!-- Styles -->
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://cdn1.iconfinder.com/data/icons/devops-cycle/256/devops_cycle_2_flat-512.png" type="image/x-icon" />
 </head>
 <body>
     <div class="hero-content">
@@ -33,11 +20,11 @@
                     <div class="row">
                         <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap justify-content-center justify-content-lg-start mb-3 mb-lg-0">
                             <div class="header-bar-email d-flex align-items-center">
-                                <i class="fa fa-envelope"></i><a href="#">tuanna.design@gmail.com</a>
+                                <i class="fa fa-envelope"></i><a href="#">info@yourtechieguys.com</a>
                             </div><!-- .header-bar-email -->
 
                             <div class="header-bar-text lg-flex align-items-center">
-                                <p><i class="fa fa-phone"></i>001-1234-88888 </p>
+                                <p><i class="fa fa-phone"></i>+91 9457891789 </p>
                             </div><!-- .header-bar-text -->
                         </div><!-- .col -->
 
@@ -65,7 +52,7 @@
                     <div class="row">
                         <div class="col-9 col-lg-3">
                             <div class="site-branding">
-                                <h1 class="site-title"><a href="index.html" rel="home">Ezu<span>ca</span></a></h1>
+                                <h1 class="site-title"><a href="index.html" rel="home">your<span>Techieguys</span></a></h1>
                             </div><!-- .site-branding -->
                         </div><!-- .col -->
 
@@ -289,7 +276,7 @@
             <div class="row">
                 <div class="col-12 col-lg-6 align-content-lg-stretch">
                     <header class="heading">
-                        <h2 class="entry-title">About Ezuca</h2>
+                        <h2 class="entry-title">About yourTechieguys</h2>
 
                         <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p>
                     </header><!-- .heading -->
@@ -851,9 +838,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                             <h2>Contact Us</h2>
 
                             <ul>
-                                <li>Email: info.deertcreative@gmail.com</li>
-                                <li>Phone: (+88) 111 555 666</li>
-                                <li>Address: 40 Baria Sreet 133/2 NewYork City, US</li>
+                                <li>Email: info@yourtechieguys.com</li>
+                                <li>Phone: (+91) 9457891789</li>
+                                <li>Address: Gurgain, India</li>
                             </ul>
                         </div><!-- .foot-contact -->
                     </div><!-- .col -->
