@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html lang="zxx">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Online Support">
-    <meta name="keywords" content="devops. cloud, support, jenkins, aws, azure, kubernetes, docker">
-    <meta name="author" content="sumit katiyar">
+    <meta name="description" content="DevOps Online Support">
+    <meta name="keywords" content="cloud, aws, azure, gcp, kubernetes, docker, jenkins, ansible, devops, support">
+    <meta name="author" content="sumitkatiyar">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="assets/fonts/flaticon/flaticon.css" type="text/css">
     <link rel="stylesheet" href="assets/css/all.css" type="text/css">
@@ -22,7 +21,7 @@
     <nav class="navbar navbar-expand-lg fixed-top trans-navigation">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-                <img src="assets/img/logo.png" alt="" class="img-fluid b-logo">
+                <img src="assets/img/" alt="" class="img-fluid b-logo">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon">
@@ -32,36 +31,26 @@
 
             <div class="collapse navbar-collapse justify-content-end" id="mainNav">
                 <ul class="navbar-nav ">
-                   <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarWelcome" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Home
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarWelcome">
-                            <a class="dropdown-item " href="index.html">
-                                Home-1
-                            </a>
-                            <a class="dropdown-item " href="index-2.html">
-                                Home-2
-                            </a> 
-                            <a class="dropdown-item " href="index-3.html" target="blank">
-                                Onepage
-                            </a>
-                        </div>
+                    <li class="nav-item">
+                        <a class="nav-link active smoth-scroll" href=".banner-area">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="about.html">About</a>
+                        <a class="nav-link smoth-scroll" href="#intro">Benefits</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="service.html">Service</a>
+                        <a class="nav-link smoth-scroll" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="pricing.html">Pricing</a>
+                        <a class="nav-link smoth-scroll" href="#service">Service</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="blog.html">Blog</a>
+                        <a class="nav-link smoth-scroll" href="#pricing">Pricing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="contact.html">Contact</a>
+                        <a class="nav-link smoth-scroll" href="#blog">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smoth-scroll" href="#contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -69,9 +58,9 @@
     </nav>
     <!--MAIN HEADER AREA END -->
 
-    <!--MAIN BANNER AREA START -->
-    <div class="banner-area banner-3">
-        <div class="overlay dark-overlay"></div>
+     <!--MAIN BANNER AREA STARt -->
+    <div class="banner-area banner-1">
+        <div class="overlay gr-overlay"></div>
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
@@ -79,9 +68,8 @@
                         <div class="col-lg-8 m-auto text-center col-sm-12 col-md-12">
                             <div class="banner-content content-padding">
                                 <h5 class="subtitle">A creative agency</h5>
-                                <h1 class="banner-title">We craft seo and digital markting services</h1>
-                                <p>We provide marketing services to startups and small businesses to looking for a partner for their digital media, design-area.We are a a startup company to be commited to work and time management.</p>
-
+                                <h1 class="banner-title">We help you even in cloud's</h1>
+                                <p>We provide onlie support services to devops guys and companies to looking for a partner for their cloud infrastructure, and application deployment. We are a a startup company to be commited to work and time management.</p>
                                 <a href="#" class="btn btn-white btn-circled">lets start</a>
                             </div>
                         </div>
@@ -108,7 +96,7 @@
                         <img src="assets/img/banner/why-choose.png" alt="intro-img" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-7 col-md-12 col-sm-12 ">
+                <div class="col-lg-7 col-md-12 col-sm-12">
                     <div class="row">
                         <div class="col-lg-6 col-sm-6 col-md-6">
                             <div class="intro-box">
@@ -370,15 +358,6 @@
     <!--  TESTIMONIAL AREA START  -->
     <section id="testimonial" class="section-padding ">
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 text-center">
-                    <div class="mb-5">
-                        <h3 class="mb-2">Trusted by hundred over years</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, dignissimos?</p>
-                    </div>
-                </div>
-            </div>
-            
             <div class="row">
                 <div class="col-lg-8 m-auto col-sm-12 col-md-12">
                     <div class="carousel slide" id="test-carousel2">
@@ -456,28 +435,35 @@
         </div>
     </section>
     <!--  TESTIMONIAL AREA END  -->
-
+    
     <!--  PARTNER START  -->
-    <section  class="section-padding ">
+    <section id="clients" class="section-padding ">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-sm-6 col-md-3 text-center">
-                    <img src="assets/img/clients/client01.png" alt="partner" class="img-fluid">
+                    <div class="client-img">
+                        <img src="assets/img/clients/client01.png" alt="partner" class="img-fluid">
+                    </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-3 text-center">
-                    <img src="assets/img/clients/client06.png" alt="partner" class="img-fluid">
+                    <div class="client-img">
+                        <img src="assets/img/clients/client06.png" alt="partner" class="img-fluid">
+                    </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-3 text-center">
-                     <img src="assets/img/clients/client04.png" alt="partner" class="img-fluid">
+                    <div class="client-img">
+                        <img src="assets/img/clients/client04.png" alt="partner" class="img-fluid">
+                    </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 col-md-3 text-center">
-                    <img src="assets/img/clients/client05.png" alt="partner" class="img-fluid">
+                    <div class="client-img">
+                        <img src="assets/img/clients/client05.png" alt="partner" class="img-fluid">
+                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!--  PARTNER END  -->
-
 
     <!--  BLOG AREA START  -->
     <section id="blog" class="section-padding bg-main">
@@ -499,7 +485,7 @@
                         <div class="blog-text">
                             <h6 class="author-name"><span>Tips and tricks</span>john Doe</h6>
                             <a href="blog-single.html" class="h5 my-2 d-inline-block">
-                               Best tips to grow your content quality and standard.
+                                Best tips to grow your content quality and standard.
                             </a>
                             <p>If you want to grow your content quality and standard you should foolow these tips properly voluptatibus.</p>
                         </div>
@@ -511,7 +497,7 @@
                         <div class="blog-text">
                             <h6 class="author-name"><span>Branding</span>john Doe</h6>
                             <a href="blog-single.html" class="h5 my-2 d-inline-block">
-                                Brand your site at top in few minuts.
+                               Brand your site at top in few minuts.
                             </a>
                             <p>Brand your site at top, boost your audioance corporis facilis animi voluptas alias ex saepe quo voluptatibus.</p>
                         </div>
@@ -534,44 +520,92 @@
     </section>
     <!--  BLOG AREA END  -->
 
-    
-    <!--  COUNTER AREA START  -->
-    <section id="counter" class="section-padding">
-            <div class="overlay dark-overlay"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="counter-stat">
-                            <i class="icofont icofont-heart"></i>
-                            <span class="counter">460</span>
-                            <h5>Our Happy Clients</h5>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="counter-stat">
-                            <i class="icofont icofont-rocket"></i>
-                            <span class="counter">60</span>
-                            <h5>Projects Done</h5>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="counter-stat">
-                            <i class="icofont icofont-hand-power"></i>
-                            <span class="counter">30</span>
-                            <h5>Experienced stuff</h5>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="counter-stat">
-                            <i class="icofont icofont-shield-alt"></i>
-                            <span class="counter">25</span>
-                            <h5>Ongoning Projects</h5>
-                        </div>
+    <!--  PARTNER START  -->
+    <section id="contact" class="section-padding ">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-sm-12 col-mfd-12">
+                    <div class="section-heading">
+                        <h4 class="section-title">Get in touch</h4>
+                        <p>Have a project on mind,want to make an consultant. Don't hesistate to contact us.Let's have atalk together.Colaborat eyour project to done quickly</p>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--  COUNTER AREA END  -->
+            <div class="row">
+                <div class="col-lg-8 col-sm-12 m-auto">
+                    <div class="contact-form ">
+                        <form class="contact__form" method="post" action="mail.php">
+                            <!-- form message -->
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="alert alert-success contact__msg" style="display: none" role="alert">
+                                        Your message was sent successfully.
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end message -->
+                            <div class="row">
+                                <div class="col-md-6 form-group">
+                                    <input name="name" type="text" class="form-control" placeholder="Name" required>
+                                </div>
+                                <div class="col-md-6 form-group">
+                                    <input name="email" type="email" class="form-control" placeholder="Email" required>
+                                </div>
+                                <div class="col-md-12 form-group">
+                                    <input name="subject" type="text" class="form-control" placeholder="Subject" required>
+                                </div>
+                                <div class="col-12 form-group">
+                                    <textarea name="message" class="form-control" rows="6" placeholder="Message" required></textarea>
+                                </div>
+                                <div class="col-12 text-center">
+                                    <input name="submit" type="submit" class=" btn btn-hero btn-circled" value="Send Message">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--  CONTACT END  -->
+
+    <!--  COUNTER AREA START  -->
+    <section id="counter" class="section-padding">
+        <div class="overlay dark-overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="counter-stat">
+                        <i class="icofont icofont-heart"></i>
+                        <span class="counter">460</span>
+                        <h5>Our Happy Clients</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="counter-stat">
+                        <i class="icofont icofont-rocket"></i>
+                        <span class="counter">60</span>
+                        <h5>Projects Done</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="counter-stat">
+                        <i class="icofont icofont-hand-power"></i>
+                        <span class="counter">30</span>
+                        <h5>Experienced stuff</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 col-md-6">
+                    <div class="counter-stat">
+                        <i class="icofont icofont-shield-alt"></i>
+                        <span class="counter">25</span>
+                        <h5>Ongoning Projects</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--  COUNTER AREA END  -->
 
     <!--  FOOTER AREA START  -->
     <section id="footer" class="section-padding">
@@ -613,16 +647,16 @@
                 <div class="col-lg-3 col-sm-6 col-md-6">
                     <div class="footer-widget footer-text">
                         <h4>Our location</h4>
-                        <p class="mail"><span>Mail:</span> promdise@gmail.com</p>
-                        <p><span>Phone :</span>+202-277-3894</p>
-                        <p><span>Location:</span> 455 West Orchard Street Kings Mountain, NC 28086,NOC building</p>
+                        <p class="mail"><span>Mail:</span> info@yourtechieguys.com</p>
+                        <p><span>Phone :</span>+91 9457891789</p>
+                        <p><span>Location:</span> Gurgaon, India</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="footer-copy">
-                        © 2018 Promodise inc. All Rights Reserved.
+                        © 2019 yourTechieguys inc. All Rights Reserved.
                     </div>
                 </div>
             </div>
