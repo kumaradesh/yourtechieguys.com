@@ -1,4 +1,4 @@
-<?php require("../config/general_conf.php"); ?>
+<?php require("/var/www/html/config/general_conf.php"); ?>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -11,7 +11,7 @@
     <link href="<?php echo $DOCUMENT_ROOT; ?>/content/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="<?php echo $DOCUMENT_ROOT; ?>/content/css/style2.min.css" rel="stylesheet">
     <link href="<?php echo $DOCUMENT_ROOT; ?>/content/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="icon" href="content/images/peoplestrong.png" type="image/x-icon" />
+    <link rel="icon" href="https://cdn1.iconfinder.com/data/icons/devops-cycle/256/devops_cycle_2_flat-512.png" type="image/x-icon" />
 </head>
 
 <body>
@@ -24,7 +24,7 @@
                     <i class="fa fa-bars fa-2x"></i>
                 </button>
                 <a class="navbar-brand" href="<?php echo $DOCUMENT_ROOT; ?>">
-                    <img alt="Your Techie Guys" src="<?php echo $DOCUMENT_ROOT; ?>/content/images/main_logo.png" alt="Your Techie Guys" title="Your Techie Guys"> 
+                    <img alt="Your Techie Guys" src="" alt="Your Techie Guys" title="Your Techie Guys"> 
                 </a> 
             </div>
             <div id="navbar" class="navbar-collapse collapse">
