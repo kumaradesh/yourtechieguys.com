@@ -393,13 +393,13 @@
                                         <div class="testimonial-content style-2">
                                             <div class="author-info ">
                                                 <div class="author-img">
-                                                    <img src="assets/img/author/5b.jpg" alt="" class="img-fluid">
+                                                    <img src="assets/img/founders/Adesh.jpg" alt="" class="img-fluid">
                                                 </div>
                                             </div>
 
                                             <p><i class="icofont icofont-quote-left"></i>They is a great platform to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start the buisness in righ way! <i class="icofont icofont-quote-right"></i></p>
                                             <div class="author-text">
-                                                <h5>Adesh Singh</h5>
+                                                <h5>Adesh Kumar Singh</h5>
                                                 <p>Chief Technology Officer</p>
                                             </div>
                                         </div>
