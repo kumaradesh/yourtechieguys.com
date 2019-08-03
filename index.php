@@ -68,7 +68,7 @@
                         <div class="col-lg-8 m-auto text-center col-sm-12 col-md-12">
                             <div class="banner-content content-padding">
                                 <h5 class="subtitle">A creative agency</h5>
-                                <h1 class="banner-title">We help you even in cloud's</h1>
+                                <h1 class="banner-title">We help you even in Cloud's</h1>
                                 <p>We provide onlie support services to devops guys and companies to looking for a partner for their cloud infrastructure, and application deployment. We are a a startup company to be commited to work and time management.</p>
                                 <a href="#" class="btn btn-white btn-circled">lets start</a>
                             </div>
@@ -380,8 +380,8 @@
 
                                             <p><i class="icofont icofont-quote-left"></i>They is a great platform to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start the buisness in righ way! <i class="icofont icofont-quote-right"></i></p>
                                             <div class="author-text">
-                                                <h5>Marine Joshi</h5>
-                                                <p>Senior designer</p>
+                                                <h5>Sumit Katiyar</h5>
+                                                <p>Chief Execuitve Officer</p>
                                             </div>
                                         </div>
                                     </div>
@@ -399,8 +399,8 @@
 
                                             <p><i class="icofont icofont-quote-left"></i>They is a great platform to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start the buisness in righ way! <i class="icofont icofont-quote-right"></i></p>
                                             <div class="author-text">
-                                                <h5>Marine Joshi</h5>
-                                                <p>Senior designer</p>
+                                                <h5>Adesh Singh</h5>
+                                                <p>Chief Technology Officer</p>
                                             </div>
                                         </div>
                                     </div>
@@ -420,8 +420,8 @@
 
                                             <p><i class="icofont icofont-quote-left"></i>They is a great platform to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start the buisness in righ way!<i class="icofont icofont-quote-right"></i></p>
                                             <div class="author-text">
-                                                <h5>Marine Joshi</h5>
-                                                <p>Senior designer</p>
+                                                <h5>Manish Singh</h5>
+                                                <p>Chief Financial Officer</p>
                                             </div>
                                         </div>
                                     </div>
