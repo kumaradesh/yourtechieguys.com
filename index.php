@@ -374,7 +374,7 @@
                                         <div class="testimonial-content style-2">
                                             <div class="author-info ">
                                                 <div class="author-img">
-                                                    <img src="assets/img/author/3b.jpg" alt="" class="img-fluid">
+                                                    <img src="assets/img/founders/Sumit.jpg" alt="" class="img-fluid">
                                                 </div>
                                             </div>
 
