@@ -273,7 +273,7 @@
             <div class="row">
                 <div class="col-lg-12 col-sm-12 m-auto">
                     <div class="section-heading">
-                        <h4 class="section-title">Affordableplan for you</h4>
+                        <h4 class="section-title">Affordable plans for you</h4>
                         <p>We have different type of plan table to choose with your need. Check which one is most suitble for you and your business purpose. </p>
                     </div>
                 </div>
@@ -289,6 +289,7 @@
                         </div>
                         <div class="line"></div>
                         <ul>
+                            <li>24x7 Great Support</li>
                             <li>Data Security and Backups</li>
                             <li>Monthly Reports and Analytics</li>
                         </ul>
@@ -306,6 +307,7 @@
                         </div>
                         <div class="line"></div>
                         <ul>
+                            <li>24x7 Great Support</li>
                             <li>Data Security and Backups</li>
                             <li>Monthly Reports and Analytics</li>
                         </ul>
@@ -323,8 +325,8 @@
                         </div>
                         <div class="line"></div>
                         <ul>
-                            <li>Data Security and Backups</li>
                             <li>24x7 Great Support</li>
+                            <li>Data Security and Backups</li>
                             <li>Monthly Reports and Analytics</li>
                         </ul>
 
@@ -637,7 +639,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="footer-copy">
-                        © 2019 yourTechieguys inc. All Rights Reserved.
+                        © 2019 YourTechieGuys inc. All Rights Reserved.
                     </div>
                 </div>
             </div>
