@@ -148,28 +148,28 @@
                 <div class="col-lg-7 col-sm-12 col-md-8">
                     <div class="about-content">
                         <h5 class="subtitle">About us</h5>
-                        <h3>We are making beautiful <br>design layout for your business</h3>
-                        <p>We craft beautiful website layout from scratch.You need not to worry about site design and other technial issue.We provide these attractive service as a bonus.Let's have atalk together for your next project.</p>
+                        <h3>We are making <br>infrasrtucture layout for your business</h3>
+                        <p>We craft infrasrtucture layout from scratch.You need not to worry about application, cloud and other.We provide these attractive service as a bonus.Let's have atalk together for your next project.</p>
 
                         <ul class="about-list">
                             <li><i class="icofont icofont-check-circled"></i> Cloud Based Infrasrtucture</li>
 
 
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Jenkins CICD
+                                <i class="icofont icofont-check-circled"> </i> Code, Build, Deploy
                             </li>
 
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Kubernetes
+                                <i class="icofont icofont-check-circled"> </i> Containerization
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Docker
+                                <i class="icofont icofont-check-circled"> </i> Software Provisioning, Configuration Management
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Ansible
+                                <i class="icofont icofont-check-circled"> </i> Monitoring
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"></i> 
+                                <i class="icofont icofont-check-circled"></i> Logging
                             </li>
                         </ul>
                     </div>
@@ -185,7 +185,7 @@
             <div class="row">
                 <div class="col-lg-12 col-sm-12 m-auto">
                     <div class="section-heading text-white">
-                        <h4 class="section-title">Full stack digital marketing solution</h4>
+                        <h4 class="section-title">Full Stack DevOps Solution</h4>
                         <p>We’re full service which means we’ve got you covered on design & content right through to digital. You’ll form a lasting relationship with us.</p>
                     </div>
                 </div>
@@ -201,10 +201,10 @@
                 <div class="col-lg-4 col-sm-6 col-md-6">
                     <div class="service-box">
                         <div class="service-img-icon">
-                            <img src="assets/img/icon/007-digital-marketing-3.png" alt="service-icon" class="img-fluid">
+                            <img src="https://cdn-images-1.medium.com/max/1200/1*FUjLiCANvATKeaJEeg20Rw.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Video Marketing</h4>
+                            <h4>Cloud Management</h4>
                             <p>Reach a huge area of users and get a publicty of your product and service ,<span>video marketing</span> solution.</p>
                         </div>
                     </div>
