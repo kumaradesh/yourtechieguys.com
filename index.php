@@ -68,7 +68,7 @@
                         <div class="col-lg-8 m-auto text-center col-sm-12 col-md-12">
                             <div class="banner-content content-padding">
                                 <h5 class="subtitle">A creative agency</h5>
-                                <h1 class="banner-title">We help you even in Cloud's</h1>
+                                <h1 class="banner-title">We helps you even in Cloud</h1>
                                 <p>We provide onlie support services to devops guys and companies to looking for a partner for their cloud infrastructure, and application deployment. We are a a startup company to be commited to work and time management.</p>
                                 <a href="#" class="btn btn-white btn-circled">lets start</a>
                             </div>
@@ -86,7 +86,7 @@
             <div class="row">
                 <div class="col-lg-12 col-sm-12 col-md-12">
                     <div class="section-heading">
-                        <p class="lead">We are creative digital marketing agency with expertise to grow any business that need proper guidance and a committed service.</p>
+                        <p class="lead">We are creative devops support agency with expertise to grow any business that need proper guidance and a committed service.</p>
                     </div>
                 </div>
             </div>
@@ -152,23 +152,24 @@
                         <p>We craft beautiful website layout from scratch.You need not to worry about site design and other technial issue.We provide these attractive service as a bonus.Let's have atalk together for your next project.</p>
 
                         <ul class="about-list">
-                            <li><i class="icofont icofont-check-circled"></i> Responsive site</li>
+                            <li><i class="icofont icofont-check-circled"></i> Cloud Based Infrasrtucture</li>
+
 
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Latest bootstrap 4
+                                <i class="icofont icofont-check-circled"> </i> Jenkins CICD
                             </li>
 
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Modern and clean design
+                                <i class="icofont icofont-check-circled"> </i> Kubernetes
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Working contact form
+                                <i class="icofont icofont-check-circled"> </i> Docker
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Premium services and support
+                                <i class="icofont icofont-check-circled"> </i> Ansible
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"></i> Cross browser compatiabilty
+                                <i class="icofont icofont-check-circled"></i> 
                             </li>
                         </ul>
                     </div>
