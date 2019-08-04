@@ -152,24 +152,21 @@
                         <p>We craft infrasrtucture layout from scratch.You need not to worry about application, cloud and other.We provide these attractive service as a bonus.Let's have atalk together for your next project.</p>
 
                         <ul class="about-list">
-                            <li><i class="icofont icofont-check-circled"></i> Cloud Based Infrasrtucture</li>
-
-
+                            <li><i class="icofont icofont-check-circled"></i> Cloud (AWS, Azure, GCP)</li>
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Code, Build, Deploy
-                            </li>
-
-                            <li>
-                                <i class="icofont icofont-check-circled"> </i> Containerization
+                                <i class="icofont icofont-check-circled"> </i> Automation (Jenkins)
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Software Provisioning, Configuration Management
+                                <i class="icofont icofont-check-circled"> </i> Containerization (Docker, Kubernetes)
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"> </i> Monitoring
+                                <i class="icofont icofont-check-circled"> </i> Configuration Management (Ansible, Puppet)
                             </li>
                             <li>
-                                <i class="icofont icofont-check-circled"></i> Logging
+                                <i class="icofont icofont-check-circled"> </i> Monitoring (Nagios, Promotheus)
+                            </li>
+                            <li>
+                                <i class="icofont icofont-check-circled"></i> Logging (EFK, ELK)
                             </li>
                         </ul>
                     </div>
@@ -215,7 +212,7 @@
                             <img src="assets/img/icon/008-digital-marketing-2.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Email Marketing</h4>
+                            <h4>Congiguration Management</h4>
                             <p>Email Marketing is a great solution to reach a <span>high range of customers</span> eagrerly waiting to get a service.</p>
                         </div>
                     </div>
@@ -226,7 +223,7 @@
                             <img src="assets/img/icon/003-task.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>SEO optimization</h4>
+                            <h4>Containerization</h4>
                             <p>we provide wide range of<span> seo service</span> to make your site at top to reach your target customers provided.</p>
                         </div>
                     </div>
@@ -238,7 +235,7 @@
                             <img src="assets/img/icon/010-digital-marketing.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Custom Website</h4>
+                            <h4>Automation</h4>
                             <p>We  provide <span>custom website</span> for any small and large company web based service in large compact package.</p>
                         </div>
                     </div>
@@ -249,7 +246,7 @@
                             <img src="assets/img/icon/006-analytics.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Content Growth</h4>
+                            <h4>Logging and Monitoring</h4>
                             <p>Content is king,Having a blog site and want to <span>build content</span> make a platform of earning too we assist you.</p>
                         </div>
                     </div>
@@ -260,7 +257,7 @@
                             <img src="assets/img/icon/004-hiring.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Link Building </h4>
+                            <h4>Code Management </h4>
                             <p>Want to grow your <span>potential visitor</span> your site to make it more effective and succesful business .</p>
                         </div>
                     </div>
