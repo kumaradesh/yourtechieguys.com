@@ -69,7 +69,7 @@
                             <div class="banner-content content-padding">
                                 <h5 class="subtitle">A creative agency</h5>
                                 <h1 class="banner-title">We helps you even in Cloud's</h1>
-                                <p>We provide online support services to DevOps guys and companies to looking for a partner for their cloud infrastructure, and application deployment. We are a a startup company to be commited to work and time management.</p>
+                                <p>We provide online support services to DevOps guys and companies to looking for a partner for their cloud infrastructure, and application deployment. We are a startup company to be commited to work and time management.</p>
                                 <a href="#" class="btn btn-white btn-circled">lets start</a>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
             <div class="row">
                 <div class="col-lg-12 col-sm-12 col-md-12">
                     <div class="section-heading">
-                        <p class="lead">We are creative devops support agency with expertise to grow any business that need proper guidance and a committed service.</p>
+                        <p class="lead">We are creative DevOps support agency with expertise to grow any business that need proper guidance and a committed service.</p>
                     </div>
                 </div>
             </div>
@@ -274,7 +274,7 @@
                 <div class="col-lg-12 col-sm-12 m-auto">
                     <div class="section-heading">
                         <h4 class="section-title">Affordable plans for you</h4>
-                        <p>We have different type of plan table to choose with your need. Check which one is most suitble for you and your business purpose. </p>
+                        <p>We have different type of plan table to choose with your need. Check which one is most suitable for you and your business purpose. </p>
                     </div>
                 </div>
             </div>
@@ -364,7 +364,7 @@
                                             <p><i class="icofont icofont-quote-left"></i>Coming together is a beginning, keeping together is progress, working together is a success! <i class="icofont icofont-quote-right"></i></p>
                                             <div class="author-text">
                                                 <h5>Sumit Katiyar</h5>
-                                                <p>Chief Execuitve Officer</p>
+                                                <p>Chief Executive Officer</p>
                                             </div>
                                         </div>
                                     </div>
@@ -631,7 +631,7 @@
                     <div class="footer-widget footer-text">
                         <h4>Our location</h4>
                         <p class="mail"><span>Mail:</span> info@yourtechieguys.com</p>
-                        <p><span>Phone :</span>+91 9457891789</p>
+                        <p><span>Phone :</span>+91 9457891789,9808102471</p>
                         <p><span>Location:</span> Gurgaon, India</p>
                     </div>
                 </div>
