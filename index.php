@@ -35,7 +35,7 @@
                         <a class="nav-link active smoth-scroll" href=".banner-area">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="#intro">Benefits</a>
+                        <a class="nav-link smoth-scroll" href="#intro">Solutions</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link smoth-scroll" href="#about">About</a>
@@ -44,7 +44,7 @@
                         <a class="nav-link smoth-scroll" href="#service">Service</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="#pricing">Pricing</a>
+                        <a class="nav-link smoth-scroll" href="#pricing">Solutioning</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link smoth-scroll" href="#blog">Blog</a>
@@ -212,7 +212,7 @@
                             <img src="assets/img/icon/008-digital-marketing-2.png" alt="service-icon" class="img-fluid">
                         </div>
                         <div class="service-inner">
-                            <h4>Congiguration Management</h4>
+                            <h4>Configuration Management</h4>
                             <p>Email Marketing is a great solution to reach a <span>high range of customers</span> eagrerly waiting to get a service.</p>
                         </div>
                     </div>
@@ -284,18 +284,12 @@
                         <div class="price-header">
                             <i class="flaticon-start"></i>
 
-                            <h4 class="price"><small>$</small>26</h4>
-                            <h5>Monthly pack</h5>
+                            <h4 class="price"><small></small></h4>
+                            <h5></h5>
                         </div>
                         <div class="line"></div>
                         <ul>
-                            <li>5 GB Bandwidth</li>
-                            <li>Highest Speed</li>
-                            <li>1 GB Storage</li>
-                            <li>Unlimited Website</li>
-                            <li>Unlimited Users</li>
                             <li>Data Security and Backups</li>
-                            <li>24x7 Great Support</li>
                             <li>Monthly Reports and Analytics</li>
                         </ul>
 
@@ -307,18 +301,12 @@
                         <div class="price-header">
                             <i class="flaticon-value"></i>
 
-                            <h4 class="price"><small>$</small>46</h4>
-                            <h5>Monthly pack</h5>
+                            <h4 class="price"><small></small></h4>
+                            <h5></h5>
                         </div>
                         <div class="line"></div>
                         <ul>
-                            <li>5 GB Bandwidth</li>
-                            <li>Highest Speed</li>
-                            <li>1 GB Storage</li>
-                            <li>Unlimited Website</li>
-                            <li>Unlimited Users</li>
                             <li>Data Security and Backups</li>
-                            <li>24x7 Great Support</li>
                             <li>Monthly Reports and Analytics</li>
                         </ul>
 
@@ -330,16 +318,11 @@
                         <div class="price-header">
                             <i class="flaticon-idea"></i>
 
-                            <h4 class="price"><small>$</small>76</h4>
-                            <h5>Monthly pack</h5>
+                            <h4 class="price"><small></small></h4>
+                            <h5></h5>
                         </div>
                         <div class="line"></div>
                         <ul>
-                            <li>5 GB Bandwidth</li>
-                            <li>Highest Speed</li>
-                            <li>1 GB Storage</li>
-                            <li>Unlimited Website</li>
-                            <li>Unlimited Users</li>
                             <li>Data Security and Backups</li>
                             <li>24x7 Great Support</li>
                             <li>Monthly Reports and Analytics</li>
@@ -376,7 +359,7 @@
                                                 </div>
                                             </div>
 
-                                            <p><i class="icofont icofont-quote-left"></i>They is a great platform to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start the buisness in righ way! <i class="icofont icofont-quote-right"></i></p>
+                                            <p><i class="icofont icofont-quote-left"></i>Coming together is a beginning, keeping together is progress, working together is a success! <i class="icofont icofont-quote-right"></i></p>
                                             <div class="author-text">
                                                 <h5>Sumit Katiyar</h5>
                                                 <p>Chief Execuitve Officer</p>
@@ -621,7 +604,7 @@
                         <ul>
                             <li><a href="#">About</a></li>
                             <li><a href="#">Service</a></li>
-                            <li><a href="#">Pricing</a></li>
+                            <li><a href="#">Solutioning</a></li>
                             <li><a href="#">Team</a></li>
                             <li><a href="#">Testimonials</a></li>
                             <li><a href="#">Blog</a></li>
