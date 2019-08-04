@@ -69,7 +69,7 @@
                             <div class="banner-content content-padding">
                                 <h5 class="subtitle">A creative agency</h5>
                                 <h1 class="banner-title">We helps you even in Cloud</h1>
-                                <p>We provide onlie support services to devops guys and companies to looking for a partner for their cloud infrastructure, and application deployment. We are a a startup company to be commited to work and time management.</p>
+                                <p>We provide on-line support services to DevOps guys and companies to looking for a partner for their cloud infrastructure, and application deployment. We are a a startup company to be commited to work and time management.</p>
                                 <a href="#" class="btn btn-white btn-circled">lets start</a>
                             </div>
                         </div>
