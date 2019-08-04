@@ -35,7 +35,7 @@
                         <a class="nav-link active smoth-scroll" href=".banner-area">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="#intro">Solutions</a>
+                        <a class="nav-link smoth-scroll" href="#intro">Benefits</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link smoth-scroll" href="#about">About</a>
@@ -44,7 +44,7 @@
                         <a class="nav-link smoth-scroll" href="#service">Service</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link smoth-scroll" href="#pricing">Solutioning</a>
+                        <a class="nav-link smoth-scroll" href="#pricing">Solutions</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link smoth-scroll" href="#blog">Blog</a>
@@ -273,8 +273,8 @@
             <div class="row">
                 <div class="col-lg-12 col-sm-12 m-auto">
                     <div class="section-heading">
-                        <h4 class="section-title">Affordable pricing plan for you</h4>
-                        <p>We have different type of pricing table to choose with your need. Check which one is most suitble for you and your business purpose. </p>
+                        <h4 class="section-title">Affordableplan for you</h4>
+                        <p>We have different type of plan table to choose with your need. Check which one is most suitble for you and your business purpose. </p>
                     </div>
                 </div>
             </div>
@@ -604,7 +604,7 @@
                         <ul>
                             <li><a href="#">About</a></li>
                             <li><a href="#">Service</a></li>
-                            <li><a href="#">Solutioning</a></li>
+                            <li><a href="#">Solutions</a></li>
                             <li><a href="#">Team</a></li>
                             <li><a href="#">Testimonials</a></li>
                             <li><a href="#">Blog</a></li>
