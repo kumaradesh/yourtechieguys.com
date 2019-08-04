@@ -380,7 +380,7 @@
                                                 </div>
                                             </div>
 
-                                            <p><i class="icofont icofont-quote-left"></i>They is a great platform to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start the buisness in righ way! <i class="icofont icofont-quote-right"></i></p>
+                                            <p><i class="icofont icofont-quote-left"></i>The road to success and the road to failure are almost exactly the same! <i class="icofont icofont-quote-right"></i></p>
                                             <div class="author-text">
                                                 <h5>Adesh Kumar Singh</h5>
                                                 <p>Chief Technology Officer</p>
@@ -397,11 +397,11 @@
                                         <div class="testimonial-content style-2">
                                             <div class="author-info ">
                                                 <div class="author-img">
-                                                    <img src="assets/img/author/3b.jpg" alt="" class="img-fluid">
+                                                    <img src="assets/img/founders/Manish.jpg" alt="" class="img-fluid">
                                                 </div>
                                             </div>
 
-                                            <p><i class="icofont icofont-quote-left"></i>They is a great platform to anyone like who want to start buisiness but not get right decision. It’s really great placefor new to start the buisness in righ way!<i class="icofont icofont-quote-right"></i></p>
+                                            <p><i class="icofont icofont-quote-left"></i>Success usually comes to those who are too busy to be looking for it!<i class="icofont icofont-quote-right"></i></p>
                                             <div class="author-text">
                                                 <h5>Manish Singh</h5>
                                                 <p>Chief Financial Officer</p>
