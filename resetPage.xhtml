@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:ui="http://java.sun.com/jsf/facelets"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core"
+    xmlns:p="http://primefaces.org/ui">
+<h:head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Reset Password : TalentPact HCM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css"
+        href="stylesheet/talentpact/#{identity.loginPageTheme}.css" media="all" />
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push([ '_setAccount', 'UA-24095858-1' ]);
+        _gaq.push([ '_setDomainName', '.peoplestrong.com' ]);
+        _gaq.push([ '_trackPageview' ]);
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+                    : 'http://www')
+                    + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</h:head>
+<h:body class="login-t t0" id="body-login-t">
+    <div class="container-fluid head"
+        style="border-bottom: 0px dotted silver;">
+        <div class="row-fluid">
+            <div class="span10 offset1 t-space">
+                <p:graphicImage value="#{customLogin.generateLogo()}"
+                    style="float: left; margin-right: 50px; margin-top: 30px; width:auto !important;"
+                    height="60" width="300">
+                </p:graphicImage>
+                <p style="margin-top: 25px; margin-left: 30px;"></p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container-fluid body 3column dash">
+        <div class="row-fluid">
+
+            <div class="span6 offset1 t-space"
+                style="border: 0px dotted gray; padding: 10px; margin-top: 30px;">
+                <h4></h4>
+                <p></p>
+            </div>
+
+            <div class="span4 content">
+                <div class="content-area"
+                    style="height: 400px ! important; width: 350px ! important; margin: 0px ! important; background: url('img/login/corner.png') no-repeat scroll right bottom rgb(248, 248, 248);">
+                    <div class="row-fluid">
+                        <h:form id="resetForm">
+                            <p:growl id="growl" life="3000" />
+                            <div class="span12 login" style="min-height: 500px;">
+                                <h4>Reset Your Password</h4>
+                                <div class="control-group textinput">
+                                    <label class="control-label" style="width: 110px !important;">New
+                                        Password</label>
+                                    <div class="controls">
+                                        <p:password value="#{identity.resetPassword}"
+                                            style="width:160px;" required="true"
+                                            requiredMessage="New Password is required" />
+                                    </div>
+                                </div>
+                                <div class="control-group textinput">
+                                    <label class="control-label" style="width: 110px !important;">Confirm
+                                        Password</label>
+                                    <div class="controls">
+                                        <p:password value="#{identity.resetConfirmPassword}"
+                                            required="true" style="width:160px;"
+                                            requiredMessage="Confirm Password is required" />
+                                    </div>
+                                </div>
+                                <br />
+                                <div>
+                                    <table width="100%">
+                                        <tr>
+                                            <td valign="top" width="20%"><label
+                                                class="control-label" style="width: 110px !important;"></label>
+                                                <p:commandButton value="Reset" oncomplete="PF('dlg1').show();"
+                                                    styleClass="btn" /> 
+                                                    
+                                                <p:dialog id="basicDialog" widgetVar="dlg1">
+                                                    <p>After resetting your password, you will be redirected to LoginPage<br/>then you can login with your new Password !!!</p>
+                                                    <hr/>
+                                                    <div align="center">
+                                                    <p:commandButton value="OK" widgetVar="OKButton"
+                                                        action="#{identity.resetPasswordActionOutside}"
+                                                        styleClass="btn" update=":resetForm" onclick="OKButton.disable()" oncomplete="OKButton.enable()"/>
+                                                        </div>
+                                                </p:dialog></td>
+                                            <td valign="top" width="80%" style="padding: 0px;">
+                                                <div
+                                                    style="font-size: 10px; color: red; margin: 0px; padding: 0px;">Password
+                                                    must</div>
+                                                <ul
+                                                    style="font-size: 10px; color: red; margin: 0px; padding: 0px; margin-left: 1em;">
+                                                    <li>contain at least 6 characters</li>
+                                                    <li>contain at least one number: 0-9</li>
+                                                    <li>not contain any space</li>
+                                                    <li>contain at least one special character:
+                                                        `!~@#$%^&amp;*</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <br />
+                                <div class="copyright">
+                                            <div class="peoplestrong">© 2023 PeopleStrong</div>
+                                </div>
+                            </div>
+
+                            <p:growl id="messages" showDetail="true" />
+
+
+                        </h:form>
+                        <!--/span-->
+                    </div>
+                    <!--/row-->
+
+
+                </div>
+
+            </div>
+        </div>
+        <!--/span-->
+
+
+
+    </div>
+    <!--/.fluid-container-->
+
+    <p:ajaxStatus
+        style="width:64px;height:64px;position:fixed;right:5px;bottom:5px">
+        <f:facet name="start">
+            <p:graphicImage value="/img/ajax-loader.gif" />
+        </f:facet>
+        <f:facet name="complete">
+            <h:outputText value="" />
+        </f:facet>
+    </p:ajaxStatus>
+
+</h:body>
+</html>
+
